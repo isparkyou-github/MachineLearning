@@ -1,5 +1,3 @@
-#ML #study #paper
-
 ### Definition
 	"Field of study that gives computers the ability to learn without being explicitly programmed."--Arthur Samuel(1959)
 [[Project Proposal]]
@@ -148,6 +146,29 @@ plt.show()
 #### goal
 
 ## Gradient Descent
+Repeat until convergence
+Learning rate: derivative Alpha
+simultaneously update w and b
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/99659734-624f-478b-a6cd-8326fa274334">
+
+### Learning Rate
+Near a local minimum,
+Derivative becomes smaller
+Update steps become smaller
+
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/d9333bc8-7388-4073-8dbf-b582146c4fba">
+<img width="703" alt="image" src="https://github.com/user-attachments/assets/4d8eea64-c47f-4f22-9fab-8dcd0decb04e">
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/2e2e569a-82e5-4d4a-a7c0-0700979f0fba">
+
+global minimum
+
+"Batch" gradient descent
+"Batch": Each step of gradient descent uses all the training examples.
+
+
+
+
+
 
 
 
